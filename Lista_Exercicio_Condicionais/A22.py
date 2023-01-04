@@ -9,7 +9,7 @@
 
 
 
-posicao = 0
+posicao = 0 
 nome_jogador = (input())
 
 if nome_jogador == "Alisson" or nome_jogador == "Ederson" or nome_jogador == "Weverton":
