@@ -9,7 +9,7 @@
 
 
 ano = int(input())
-
+ 
 #selecao1
 nome_selecao1 = input()
 vitorias_time1 = int(input())
